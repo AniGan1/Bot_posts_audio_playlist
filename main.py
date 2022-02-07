@@ -6,7 +6,7 @@ import requests
 
 message = """Самый сок """
 
-audio_playlist ='audio_playlist438672703_45_e17ad2b1a0219460ae'
+audio_playlist ='audio_playlist438672703_51%2F4d9001679bfa5d6abd'
 
 
 while True:
